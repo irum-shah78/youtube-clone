@@ -1,0 +1,3 @@
+//  export const api =`https://www.googleapis.com/youtube/search?part=snippet&type=video&maxResults=50&q=programming&regionCode=PK&key=AIzaSyDYz-4CoFupt4ZaAx3nrQYwft5aYAQArRI`
+// export const api =`https://youtube.googleapis.com/youtube/v3/videos?part=snippet%2CcontentDetails%2Cstatistics&chart=mostPopular&maxResults=50&regionCode=PK&key=AIzaSyBuMU8dDvNOg4Qfy5oCaaWEA1gNO_fmVT0`
+export const api = `https://www.googleapis.com/youtube/v3/search?part=snippet&type=video&maxResults=50&q=programming&key=AIzaSyA9YxpcYGEKe97SqO1xVEFnYfVdXO_1THM`
